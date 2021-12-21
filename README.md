@@ -33,5 +33,3 @@ You can call me
 + Email: `laorange6666@qq.com`
 
 🍀 **WISH A BETTER TOMORROW** 
-
-![laorange's GitHub stats](https://github-readme-stats.vercel.app/api?username=laorange&count_private=true&show_icons=true)
