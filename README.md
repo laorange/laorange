@@ -13,23 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋
+### Hi 👋 Welcome here!
+
+----
+
+😄 I'm a student in Civil Aviation University of China.
+
+✈ Aircraft Power Engineering → Aeronautical Engineering (Structure & Material of Aircraft)
+
+----
 
 You can call me 
 + Achile ;
 + laorange, my nickname ;
 + Paul, which was chosen as French name in the first French lesson in 2017.
 
------
-
-😄 I'm a student in Civil Aviation University of China.
-
-✈ My research direction is Structure & Material of Aircraft.
+----
 
 📬 How to reach me:
 
 + Wechat: `laorange6666`
 
 + Email: `laorange6666@qq.com`
+
+----
 
 🍀 **WISH A BETTER TOMORROW** 
