@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 ----
 
 You can call me 
-+ Achile ;
-+ laorange, my nickname ;
-+ Paul, which was chosen as French name in the first French lesson in 2017.
++ Paul, which was chosen as French name in the first French lesson in 2017;
 
 ----
 
