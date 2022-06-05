@@ -17,23 +17,18 @@ Here are some ideas to get you started:
 
 ----
 
+😉 You can call me **Paul**.
+
 😄 I'm a student in Civil Aviation University of China.
 
-✈ Aircraft Power Engineering → Aeronautical Engineering (Structure & Material of Aircraft)
+✈ I learn Aeronautical Engineering in university. Code in spare time.
 
-----
-
-You can call me 
-+ Paul, which was chosen as French name in the first French lesson in 2017;
-
-----
-
-📬 How to reach me:
-
-+ Wechat: `laorange6666`
+💬 To contact me, please choose:
 
 + Email: `laorange6666@qq.com`
 
++ Wechat: `laorange6666`
+
 ----
 
-🍀 **WISH A BETTER TOMORROW** 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laorange&hide=html,css,shell,dockerfile&layout=compact&langs_count=6)
