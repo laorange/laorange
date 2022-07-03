@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 💬 To contact me, please choose:
 
-+ Email: `laorange6666@qq.com`
++ Email: `laorange6666@gmail.com`
 
 + Wechat: `laorange6666`
 
