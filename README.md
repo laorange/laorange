@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 ----
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laorange&hide=html,css,shell,dockerfile&layout=compact&langs_count=6)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laorange&hide=shell,dockerfile&layout=compact&langs_count=8)
