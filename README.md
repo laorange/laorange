@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 
 ### Hi 👋 Welcome here!
 
-----
-
 😉 You can call me **Paul**.
 
-😄 I'm a student in Civil Aviation University of China.
+📖 I'm a student in `Civil Aviation University of China`.
 
-✈ I learn Aeronautical Engineering in university. Code in spare time.
+✈ I learn `Aeronautical Engineering` in university. 
 
-💬 To contact me, please choose:
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laorange&hide=shell,dockerfile,cmake,c%2B%2B,c,swift,html&layout=compact&langs_count=8" style="padding-bottom: 10px;"></img>
+
+💻 I enjoy coding in spare time.
+
+----
+
+📫 To contact me, please choose:
 
 + Email: `laorange6666@gmail.com`
 
 + Wechat: `laorange6666`
-
-----
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laorange&hide=shell,dockerfile&layout=compact&langs_count=8)
