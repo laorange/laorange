@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 📖 I'm a student in `Civil Aviation University of China`.
 
-✈ I learn `Aeronautical Engineering` in university. 
+✈ My major is `Aeronautical Engineering`. 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laorange&hide=shell,dockerfile,cmake,c%2B%2B,c,swift,html&layout=compact&langs_count=8" style="padding-bottom: 10px;"></img>
 
