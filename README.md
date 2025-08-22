@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 😉 You can call me **Paul**.
 
-📖 I'm a student in `Civil Aviation University of China`.
+✈ I am an Avionics Engineer, and enjoy coding in spare time.
 
-✈ My major is `Aeronautical Engineering`. 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laorange&hide=shell,dockerfile,cmake,c%2B%2B,jupyter%20notebook,c,swift,html&layout=compact&langs_count=8" style="padding-bottom: 10px;"></img>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laorange&hide=shell,dockerfile,cmake,c%2B%2B,c,swift,html&layout=compact&langs_count=8" style="padding-bottom: 10px;"></img>
-
-💻 I enjoy coding in spare time.
+💻 The programs I write most often are in Python and Vue with TS.
 
 ----
 
